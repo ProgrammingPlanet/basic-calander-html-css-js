@@ -1,0 +1,29 @@
+#main{
+	margin: auto;
+	width: 80%;
+}
+#calander{
+	border: 2px solid blue;
+	padding: 20px;
+}
+.day{
+	border: 1px solid yellow;
+	width: 12.3%;
+	height: 110px;
+	text-align: center;
+	padding: 15px 0px;
+	display: inline-block;
+	background-color: #d9ffff;
+}
+.event{
+	padding: 5px;
+	background-color: #5eff84;
+	display: block;
+	/*min-height: 50px;*/
+	margin: 5px;
+	cursor: pointer;
+	font-size: 12px;
+}
+a{
+	text-decoration: none;
+}
